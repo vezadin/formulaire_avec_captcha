@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  php-apache:
+    build: .
+    ports:
+      - "8080:80"
+    volumes:
+      - .:/var/www/html
+      - ./sessions:/var/lib/php/sessions
+      - ./php.ini:/usr/local/etc/php/conf.d/custom.ini

@@ -1,0 +1,53 @@
+/* style-stockage.css : affichage tableau */
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background-color: black;
+}
+
+h2 {
+    color: rgb(0, 128, 255);
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.message {
+    text-align: center;
+    color: red;
+    font-weight: bold;
+    margin: 10px auto;
+}
+
+table {
+    width: 90%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    font-size: 14px;
+}
+
+th, td {
+    border: 1px solid #444;
+    background-color: black;
+    color: white;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: rgb(0, 128, 255);
+    color: white;
+}
+
+button {
+    background-color: #d9534f;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-size: 0.9em;
+    border-radius: 3px;
+}
+
+button:hover {
+    background-color: #c9302c;
+}
