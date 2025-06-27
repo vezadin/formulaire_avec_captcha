@@ -106,7 +106,7 @@ exit;
 <head>
     <meta charset="UTF-8" />
     <title>Données des utilisateurs</title>
-    <link rel="stylesheet" href="styleS.css" />
+    <link rel="stylesheet" href="/styleS.css" />
 </head>
 <body>
 <h2 style="text-align: center;">Liste des formulaires envoyés</h2>

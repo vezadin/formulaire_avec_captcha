@@ -3,3 +3,4 @@ my_key.pub
 *.pem
 *.key
 *.pub
+archive/
