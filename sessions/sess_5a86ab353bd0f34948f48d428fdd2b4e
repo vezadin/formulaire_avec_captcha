@@ -1,1 +1,1 @@
-test|s:2:"ok";iconcaptcha|a:2:{s:5:"token";s:64:"0873abb19519b3f6e6c5e86a49877ca8ce4b4078e105f2aeae693ac9d2f6c122";s:10:"challenges";a:1:{s:73:"65b42491-9ac3-4dda-99cb-720500b92b39:c15df5ae-dccf-4478-8dde-7223164a7e17";a:6:{s:5:"icons";a:0:{}s:9:"correctId";i:0;s:4:"mode";s:4:"dark";s:9:"requested";b:1;s:9:"completed";b:1;s:9:"expiresAt";i:1751010931043;}}}
+test|s:2:"ok";iconcaptcha|a:2:{s:5:"token";s:64:"0873abb19519b3f6e6c5e86a49877ca8ce4b4078e105f2aeae693ac9d2f6c122";s:10:"challenges";a:0:{}}pin_valid|b:1;
